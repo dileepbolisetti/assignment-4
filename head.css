@@ -1,0 +1,164 @@
+ul {
+    list-style: none;
+}
+
+.cover p, .cover span, .cover li {
+    color: #ffffff;
+}
+
+.august-fest-banner a {
+    border-color: #ff6b3c !important;
+    color: #ff6b3c !important;
+}
+
+
+
+.custom-slide h1.lead-heading {
+    font-family: Roboto, sans-serif;
+    color: #073c71;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 300;
+    font-weight: bold;
+}
+
+
+.custom-slide h1.lead-heading {
+    font-size: 3.5rem;
+    line-height: 40px;
+}
+
+
+
+.fs-vid-background video {
+    object-fit: fill;
+    width: 100%;
+    height: 600px;
+}
+
+video {
+    max-width: 100%;
+}
+.custom-slide.video-slide-content1{
+
+}
+.august-fest-banner {
+    position: absolute;
+    right: 50px;
+    top: 0;
+    z-index: 10000;
+    height: 200px;
+    width: 191px;
+    background-image: url(https://s3-ap-southeast-1.amazonaws.com/misc-host/ibgroup/images/custom/banner.png);
+    background-size: cover;
+    line-height: 16px;
+    padding: 10px;
+}
+
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, pre, table, blockquote, input, button, select, textarea {
+    margin-bottom: 24px;
+    margin-top: 0;
+    padding: 0;
+}
+
+.custom-slide p.official-launch, .custom-slide p.equal-opportunities-para {
+    margin-top: 50px;
+    color: #ff6b3c !important;
+}
+
+
+.custom-slide h1.lead-heading {
+    font-size: 3.5rem !important;
+    line-height: 40px !important;
+}
+
+
+.custom-slide h1.lead-heading {
+    font-family: Roboto, sans-serif;
+    color: #073c71;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 300;
+    font-weight: bold;
+    padding-right: 300px;
+}
+
+
+.slides, .flex-control-nav, .flex-direction-nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.mb24 {
+    margin-bottom: 24px;
+}
+
+.custom-slide p {
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 400;
+    color: #073c71;
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+
+
+
+p, span {
+    font-weight: 400;
+}
+
+
+.image-bg p, .image-bg span, .image-bg li {
+    color: #ffffff;
+}
+
+
+
+.cover p, .cover span, .cover li {
+    color: #ffffff;
+}
+
+
+.august-fest-banner p {
+    color: #fff;
+    margin-bottom: 10px !important;
+    font-family: Roboto, sans-serif;
+}
+
+
+.august-fest-banner p.aug-fest {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
+
+
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 13px;
+    line-height: 24px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #666;
+    overflow-x: hidden;
+}
